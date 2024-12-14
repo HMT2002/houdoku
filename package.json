@@ -137,6 +137,7 @@
     "form-data": "^4.0.1",
     "formdata-node": "^4.3.1",
     "history": "^5.2.0",
+    "houdoku": "file:",
     "html-react-parser": "^5.0.6",
     "jsdom": "^25.0.1",
     "jszip": "^3.8.0",
